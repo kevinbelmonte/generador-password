@@ -1,5 +1,3 @@
-codigo de generadorcontraseñas.py
-
 import random
 import string
 

@@ -1,21 +1,18 @@
-# 🧮 Calculadora Básica en Python
+# 🔐 Generador de Contraseñas en Python
 
-Proyecto simple de calculadora hecha en Python.  
-Permite realizar operaciones básicas entre dos números.  
-Ideal para practicar entrada de datos, variables y operadores en Python.
+Programa simple que genera contraseñas aleatorias utilizando letras y números.  
 
 ---
 
 ## 🚀 Funcionalidades
-- Sumar dos números  
-- Restar dos números  
-- Multiplicar dos números  
-- Dividir dos números (incluye validación para evitar división por cero)
+- Generar contraseñas de longitud personalizada  
+- Usar letras mayúsculas, minúsculas y números  
+- Resultado generado al instante en consola
 
 ---
 
 ## ▶️ Cómo usar
 
 1. Asegurate de tener **Python 3** instalado.  
-2. Ejecutá este comando dentro de la carpeta del proyecto: contraseñas.py
+2. Ejecutá: contraseñas.py
 
